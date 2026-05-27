@@ -1,0 +1,4 @@
+resource "azurerem_resource_group" "block1"{
+  name="kbrg1"
+  location="centralindia"
+  }
